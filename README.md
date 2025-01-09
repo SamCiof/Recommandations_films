@@ -1,6 +1,7 @@
 # DSTREC - Système de Recommandation de Films
 
-Ce projet implémente un système de recommandation de films utilisant diverses techniques d'analyse de données et d'apprentissage automatique.
+Ce projet implémente un système de recommandation de films utilisant diverses techniques d'analyse de données et d'apprentissage automatique. 
+Ce dernier a été réalisé dans le cadre de ma formation au sein de Datascientest avec deux autres élèves.
 
 ## Structure du Projet
 
